@@ -33,13 +33,21 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
+  <img src="HTML logo.jpg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="CSS logo.jpg" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="Node logo.jpg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="27-278320_bootstrap-logo-logo-png-bootstrap-logo-transparent-png-removebg-preview.jpg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="Python logo.jpg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="C logo.jpg" height="40" alt="javascript logo"  />
   <img width="12" />
 </div>
 
