@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2004<br>📚 I'm currently learning ReactJS<br>🎯 Goals: Full stack web developement<br>🎲 Fun fact: undefined😒</p>
+<p align="left">✨ Creating bugs since 2004<br>📚 I'm currently learning ReactJS<br>🎯 Goals: Full stack web developer<br>💬 Ask me about: my journey to become a professional procrastinator😴<br>🎲 Fun fact: undefined😒</p>
 
 ###
 
