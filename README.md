@@ -49,7 +49,8 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40" alt="javascript logo"  />
   <img width="12" />
-  
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675637255386/f3a9a38b-116d-4b35-8f46-8d8abb78166f.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="40" alt="javascript logo"  />
+  <img width="12" />
 </div>
 
 ###
