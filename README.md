@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="C logo.jpg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="HTML logo.jpg" height="40" alt="javascript logo"  />
+  <img src="HTML logo.jpg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="CSS logo.jpg" height="40" alt="javascript logo"  />
   <img width="12" />
