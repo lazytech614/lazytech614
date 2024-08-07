@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="HTML logo.jpg" height="50" alt="javascript logo"  />
   <img width="12" />
-  <img src="CSS logo.jpg" height="40" alt="javascript logo"  />
+  <img src="CSS logo.jpg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
