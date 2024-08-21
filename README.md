@@ -51,6 +51,10 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675637255386/f3a9a38b-116d-4b35-8f46-8d8abb78166f.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://th.bing.com/th/id/R.4fae2a716eff54919f5c949473a40828?rik=ofzzjqC8qmFvsA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fMongoDB_logo_Mongo_DB.png&ehk=WPLMB42bkY%2bTuJ44%2b7NPJ7MRtpfhG8pvkCUli3M8Oic%3d&risl=&pid=ImgRaw&r=0" height="40" alt="mongo logo"  />
+  <img width="12" />
+  <img src="https://cloudacropolis.com/img/postgresql-logo.png" height="40" alt="mongo logo"  />
+  <img width="12" />
 </div>
 
 ###
