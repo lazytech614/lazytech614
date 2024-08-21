@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Rupanjan and I'm a Developer, from planet earth🤖👾</p>
+<p align="left">My name is Rupanjan and I'm a React Developer, from Roorkee, Uttarakhand</p>
 
 ###
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since 2004<br>📚 I'm currently learning ReactJS & Typescript<br>🎯 Goals: Full stack web developer<br>💬 Ask me about: my journey to become a professional procrastinator😴<br>🎲 Fun fact: undefined😒</p>
+<p align="left">✨ Creating bugs since 2004<br>📚 I'm currently learning DSA in C++<br>🎯 Goals: Full stack web developer<br>💬 Ask me about: my journey to become a professional procrastinator😴<br>🎲 Fun fact: undefined😒</p>
 
 ###
 
