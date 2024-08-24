@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://th.bing.com/th/id/OIP.XCm94ZiyrutjsQaikqwPnAHaEy?rs=1&pid=ImgDetMain" />
+  <img src="https://th.bing.com/th/id/OIP.XCm94ZiyrutjsQaikqwPnAHaEy?rs=1&pid=ImgDetMain" height="40"/>
   <img width="12" />
    <img src="Node logo.jpg" height="40" alt="nodejs logo"  />
   <img width="12" />
