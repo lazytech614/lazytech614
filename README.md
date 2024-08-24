@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="Node logo.jpg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" height="40" alt="jest logo"  />
+  <img src="[https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png](https://th.bing.com/th/id/OIP.DAd4ProxJ7RhaQ6iJZxoSAHaHT?rs=1&pid=ImgDetMain)" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40" alt="javascript logo"  />
   <img width="12" />
