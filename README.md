@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://th.bing.com/th/id/OIP.XCm94ZiyrutjsQaikqwPnAHaEy?rs=1&pid=ImgDetMain" />
+  <img width="12" />
    <img src="Node logo.jpg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40" alt="Typescript logo"  />
