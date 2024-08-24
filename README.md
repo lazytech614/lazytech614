@@ -33,21 +33,22 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="C logo.jpg" height="40" alt="javascript logo"  />
+  <img src="C logo.jpg" height="40" alt="C logo"  />
   <img width="12" />
-  <img src="HTML logo.jpg" height="50" alt="javascript logo"  />
+  <img src="HTML logo.jpg" height="50" alt="HTML logo"  />
   <img width="12" />
-  <img src="CSS logo.jpg" height="50" alt="javascript logo"  />
+  <img src="CSS logo.jpg" height="50" alt="CSS logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg](https://th.bing.com/th/id/OIP.DAd4ProxJ7RhaQ6iJZxoSAHaHT?rs=1&pid=ImgDetMain)" height="40" alt="talwind logo"  />
+  <img width="12" />
+  
   <img src="Node logo.jpg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="[https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png](https://th.bing.com/th/id/OIP.DAd4ProxJ7RhaQ6iJZxoSAHaHT?rs=1&pid=ImgDetMain)" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40" alt="javascript logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="40" alt="Typescript logo"  />
   <img width="12" />
   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675637255386/f3a9a38b-116d-4b35-8f46-8d8abb78166f.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" height="40" alt="javascript logo"  />
   <img width="12" />
