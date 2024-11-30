@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Rupanjan and I'm a React Developer, from Roorkee, Uttarakhand</p>
+<p align="left">My name is Rupanjan and I'm a Full Stack Developer, from Roorkee, Uttarakhand</p>
 
 ###
 
