@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Rupanjan and I'm a Full Stack Developer, repping Roorkee, Uttarakhand – living that code-life with extra meme sauce.</p>
+<p align="left">My name is Rupanjan and I'm a Full Stack Developer, from Roorkee, Uttarakhand.</p>
 
 ###
 
@@ -66,30 +66,29 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" height="40" alt="Next.js logo"  />
   <img width="12" />
-  <img src="https://www.prisma.io/img/prisma-logo.svg" height="40" alt="Prisma logo"  />
+  <img src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" height="40" alt="Prisma logo"  />
 </div>
 
 ###
 
-## Quick Deets (GenZ Edition)
-- 🔭 **Working on:** Crafting next-level code and turning bugs into rare collectibles.
-- 🌱 **Learning:** DSA in C++ because even my brain needs a challenge (plus, it’s lit).
-- 👯 **Collab with me:** If your project has as much drip as my code, let’s vibe.
-- 🤔 **Need help with:** That sneaky bug that’s low-key ghosting me at 3AM.
-- 💬 **Ask me about:** My journey from procrastination to code domination – it's a whole mood.
-- 📫 **Reach me at:** Insta, Twitter, or even a Snapchat – slide in, fam.
-- 😄 **Pronouns:** They/Them – because labels are so last season.
-- ⚡ **Fun fact:** I once wrote code while binge-watching memes. Multitasking on fleek.
+## Quick Deets 
+- 🔭 **Working on:** Learning new coding skills and fixing bugs one day at a time.
+- 🌱 **Learning:** DSA in C++—always room to grow and learn.
+- 👯 **Collab with me:** Open to new ideas and projects—let’s help each other out.
+- 🤔 **Need help with:** Tricky bugs that sometimes have me stumped.
+- 💬 **Ask me about:** My coding journey, the ups and downs, and everything in between.
+- 📫 **Reach me at:** Insta, Twitter, or email—happy to connect and chat.
+- 😄 **Pronouns:** They/Them – keeping it real and inclusive.
+- ⚡ **Fun fact:** I once coded deep into a meme binge—learning and laughing all the way.
 
 ###
 
 ## Extra Vibes & Random Shenanigans
-- **Daily Mood:** Vibing like it’s 2099 – futuristic, mysterious, and extra.
-- **Snack Game:** Powered by pizza, caffeine, and an endless supply of memes.
-- **Gamer Mode:** When I’m not coding, I’m busy leveling up IRL – respawn pending.
-- **Inspo:** My spirit animal? A cat that codes in pajamas and takes its time.
-- **Random Thought:** If life were a Git commit, mine would be full of hilarious merge conflicts.
+- **Daily Mood:** Curious, open-minded, and ready to learn something new.
+- **Snack Game:** A simple mix of pizza, coffee, and occasional treats.
+- **Gamer Mode:** I game for fun—no pro skills, just good vibes.
+- **Inspo:** I believe everyone has something cool to share—learning is a two-way street.
+- **Random Thought:** If life were a Git commit, I’d be all about learning from every update.
 
-###
 
 <p align="center">Stay lit, keep coding, and never stop vibing 😎🔥</p>
