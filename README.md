@@ -83,9 +83,9 @@
 
 ---
 ## 🌐 Connect With Me
-- 📧 Email: [shamilahmd12@gmail.com](mailto:derupanjan2021@gmail.com)
-- 💼 LinkedIn: [Shamil Ahammed T](https://www.linkedin.com/in/rupanjan-de-15126527a/) 
-- 🌍 Portfolio: [Shamil Ahammed T](https://portfolio-iota-pearl-33.vercel.app/)
+- 📧 Email: [derupanjan2021@gmail.com](mailto:derupanjan2021@gmail.com)
+- 💼 LinkedIn: [Rupanjan De](https://www.linkedin.com/in/rupanjan-de-15126527a/) 
+- 🌍 Portfolio: [Rupanjan De](https://portfolio-iota-pearl-33.vercel.app/)
 ---
 
 ### 📊 Stats
